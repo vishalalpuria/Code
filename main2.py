@@ -6,12 +6,12 @@ ci = p*(1+(r/100))**n
 print(ci)
 
 
-
 a = int(input())
 b = int(input())
+
+# print(a if a > b else  b)
+
 if(a>b):
     print(a)
 else:
     print(b)
-
-#github repo cap 776 
