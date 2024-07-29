@@ -1,13 +1,10 @@
 print("hello world")
 
-a = 10
-#pi r ^ 2
-
+# Area if circle
 r = int(input("Enter the r: "))
 print(3.14*r*r)
 
-#Pragma function 
-
+#Pragma function in c++ is used to change the order of execution
 
 c = 10
 d = 20
