@@ -1,4 +1,5 @@
 #program for anagram
+
 i = (input())
 j = (input())
 if(len(i) != len(j)):
@@ -15,3 +16,4 @@ else:
         print("Anagram Number")
     else:
         print("Not Anagram")
+        

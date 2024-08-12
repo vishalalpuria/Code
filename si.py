@@ -1,3 +1,5 @@
+# wap to calculate the si 
+
 p = int(input("Enter the principle: "))
 r = int(input("Enter the Rate: "))
 n = int(input("Enter the Years: "))
