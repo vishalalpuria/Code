@@ -11,8 +11,8 @@ with open(target_file, 'r') as f:
     target_data = f.read()
     target_words = target_data.split()
     for word in target_words:
-        if word in word_count:
-            word_count[word] += 1
+        if word.lower() in word_count:
+            word_count[word.lower()] += 1
 
 print(word_count)
 

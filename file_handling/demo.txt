@@ -3,3 +3,5 @@ We are learning how to read from and write to files.
 This is the third line of the file dog fish.
 There are so many dogs are there.
 Dog always bite.
+dog cannot hack.
+hello
